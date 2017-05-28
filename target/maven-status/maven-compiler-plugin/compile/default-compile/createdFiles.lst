@@ -1,0 +1,9 @@
+hu\unideb\inf\ptech\controller\ContractController.class
+hu\unideb\inf\ptech\controller\HibernateUtil.class
+hu\unideb\inf\ptech\controller\SqlLekerdezesek.class
+hu\unideb\inf\ptech\controller\NewCustController.class
+hu\unideb\inf\ptech\MainApp.class
+hu\unideb\inf\ptech\controller\MainController.class
+hu\unideb\inf\ptech\controller\Kalkulator.class
+hu\unideb\inf\ptech\model\Ugyfel.class
+hu\unideb\inf\ptech\model\Szerzodes.class
